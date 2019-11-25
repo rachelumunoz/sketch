@@ -1,0 +1,26 @@
+.workContainer {
+  display: flex;
+  justify-content: center;
+}
+
+video {
+  height: 400px;
+  -webkit-box-shadow: 0px 1px 7px -3px #000000; 
+  box-shadow: 0px 1px 7px -3px #000000;
+}
+
+.descriptionContainer {
+  height: 400px;
+  width: 400px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.title {
+  align-self: flex-start;
+}
