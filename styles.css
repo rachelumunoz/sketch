@@ -5,6 +5,7 @@
 
 video {
   height: 400px;
+  width: 400px;
   -webkit-box-shadow: 0px 1px 7px -3px #000000; 
   box-shadow: 0px 1px 7px -3px #000000;
 }
@@ -24,3 +25,6 @@ video {
 .title {
   align-self: flex-start;
 }
+
+new Date(year, month, day, hours, minutes, seconds, milliseconds)
+new Date(12, 2, 3, 8, 56)
